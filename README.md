@@ -70,7 +70,7 @@ The dataset presents a **severe class imbalance**, with later-stage cases being 
 |-------------------|-------|
 | **Accuracy**      | 95.42% |
 | **Precision (Moderate)** | 1.00 |
-| **Recall (Moderate)**    | 0.92 |
+| **Recall (Moderate)**    | 1.00 |
 | **F1-Score (Moderate)**  | 0.96 |
 
 📌 *The confusion matrix shows strong performance in detecting rare “Moderate Demented” cases without false positives.*
